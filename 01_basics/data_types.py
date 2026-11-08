@@ -1,4 +1,4 @@
-#Задание Типы данных
+#Типы данных
 #Создай пять переменных разных типов:
 #int, float, str, bool, NoneType.
 #Выведи их значения и типы через type().
@@ -12,7 +12,7 @@ print(height,type(height))
 print(name,type(name))
 print(is_learning_python,type(is_learning_python))
 print(result,type(result))
-#Задание Преобразование типов
+#Преобразование типов
 #Создай переменные
 #Преобразовать age в целое число.
 #Преобразовать price в дробное число.
@@ -26,7 +26,7 @@ price = float(price)
 result = price * quantity
 print(result)
 print(type(result))
-#Задание Работа с данными
+#Работа с данными
 #Есть переменные.
 #Необходимо преобразовать данные в подходящие типы и вывести информацию.
 name = "Alex"
